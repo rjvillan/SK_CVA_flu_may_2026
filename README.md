@@ -2,8 +2,8 @@
 
 Code repository for the paper:
 
-> **Kyeongah Nah, Jonggul Lee, Almudena Sánchez, and Rafael J.
-Villanueva, Epidemic dynamics and parameter identifiability of the 2016–2017 influenza A(H3N2) season in South Korea and the Community of Valencia: a model-based comparison**
+> *Kyeongah Nah, Jonggul Lee, Almudena Sánchez, Rafael J. Villanueva*
+> **Epidemic dynamics and parameter identifiability of the 2016–2017 influenza A(H3N2) season in South Korea and the Community of Valencia: a model-based comparison**
 
 ## Overview
 
