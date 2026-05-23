@@ -1,0 +1,43 @@
+# ---------------------------------------------------------------
+# PARAMETERS TO CALIBRATE
+# ---------------------------------------------------------------
+
+beta:
+  minimo:     2.33
+  maximo:     17.5
+  comentario: Transmission rate
+
+epsilon:
+  minimo:     1.75
+  maximo:     14.0
+  comentario: L->I progression rate
+
+gamma:
+  minimo:     2.33
+  maximo:     7.0
+  comentario: I->R recovery rate
+
+s0:
+  minimo:     0.0
+  maximo:     1.0
+  comentario: Initial susceptible fraction
+
+l0:
+  minimo:     1.0e-8
+  maximo:     1.0e-4
+  comentario: Initial latent fraction
+
+i0:
+  minimo:     1.0e-8
+  maximo:     1.0e-4
+  comentario: Initial infectious fraction
+
+p:
+  minimo:     0.01
+  maximo:     0.12
+  comentario: Fraction of unique infectious individuals that are reported
+
+a:
+  minimo:     0.0
+  maximo:     1500.0
+  comentario: Additive baseline of reported cases
